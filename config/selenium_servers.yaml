@@ -1,0 +1,12 @@
+OSX:
+  Leopard: {
+    host: selenium.icgroup.com,
+    port: 15555,
+    browsers: ['*firefox']
+  }
+Windows:
+  XPParallels: {
+    host: selenium.icgroup.com,
+    port: 25555,
+    browsers: ['*iexplore', '*firefox']
+  }

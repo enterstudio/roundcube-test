@@ -1,0 +1,10 @@
+webmail_server: http://dev.webmail.pobox.com
+authentication_url: pobox.com/login
+number_of_tests: 50
+pobox_username: pobox@pobox.com
+pobox_password: password
+platform:
+  Windows: {
+      version: XPParallels,
+      browser: "*iexplore"
+  }
